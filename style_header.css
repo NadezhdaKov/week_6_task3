@@ -16,7 +16,7 @@ header {
 }
 
 nav {
-    width: minmax(560px, 67.5%);
+    width: 67%;
     height: 67.5%;
     border-radius: 50px;
     margin: auto;
